@@ -1,1 +1,0 @@
-[Get Flag Color Codes](https://www.flagcolorcodes.com/india)
