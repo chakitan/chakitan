@@ -1,0 +1,17 @@
+Portfolio/
+├── public
+└── src/
+    ├── assets/
+    │   ├── documents
+    │   └── images
+    ├── common/
+    │   └── components/
+    │       ├── Footer
+    │       ├── Navigation
+    │       ├── UIElements/
+    │       │   └── loadingAnimations
+    │       ├── hooks
+    │       └── util
+    ├── features/
+    │   └── ProfileRedirect
+    └── pages/
